@@ -41,9 +41,8 @@ of each Attribute, ”Amount” is the amount of each transaction, and the final
 1. K-Nearest Neighbor (KNN)
 2. Logistic Regression (L.R.)
 3. Support Vector Machine (SVM)
-4. Decision Tree (D.T.)
-5. 
-br>
+4. Decision Tree (D.T.) 
+<br>
 <br>
 
 ## Future Work 
